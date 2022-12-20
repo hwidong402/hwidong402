@@ -1,4 +1,3 @@
-
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=hwidong402)](https://github.com/hwidong402)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwidong402)](https://github.com/hwidong402/github-readme-stats)
@@ -7,12 +6,6 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
-
-```
-system.Writeline()
-```
-
-:smirk: <br> :joy: <br> :rage:
 
 
 <!--
